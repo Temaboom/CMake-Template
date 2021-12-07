@@ -1,0 +1,10 @@
+^C:\USERS\TEMABOOMPC\DESKTOP\NEWPROJECT\CMAKE-TEMPLATE\SLN\CMAKEFILES\3AA075408F822404117F5CAD068BB50C\GENERATE.STAMP.RULE
+setlocal
+F:\CMake\bin\cmake.exe -SC:/Users/TemaboomPC/Desktop/NewProject/CMake-Template -BC:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln/DataStructures.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/gtest/CMakeLists.txt
+F:/CMake/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake
+F:/CMake/share/cmake-3.22/Modules/CheckIncludeFile.c.in
+F:/CMake/share/cmake-3.22/Modules/CheckIncludeFile.cmake
+F:/CMake/share/cmake-3.22/Modules/CheckLibraryExists.cmake
+F:/CMake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+F:/CMake/share/cmake-3.22/Modules/FindPackageMessage.cmake
+F:/CMake/share/cmake-3.22/Modules/FindThreads.cmake
+F:/CMake/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake

@@ -1,0 +1,8 @@
+C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln/CMakeFiles/ZERO_CHECK.dir
+C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln/lib_example/CMakeFiles/LibName.dir
+C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln/list/CMakeFiles/List.dir
+C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln/queue/CMakeFiles/Queue.dir
+C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln/main/CMakeFiles/Application.dir
+C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln/gtest/CMakeFiles/gtest.dir
+C:/Users/TemaboomPC/Desktop/NewProject/CMake-Template/sln/test/CMakeFiles/AllTests.dir
